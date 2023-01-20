@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ronitsatone45
-- 👀 I’m interested in Data Science, Machine Learning and Artifical Intelligence
-- 🌱 I’m currently learning Python, Tableau, R, MySQL, Apache, Spark, Hadoop, Artifical Intelligence and Deep Learning
-- 💞️ I’m looking to collaborate on all topics related to Data Science, Machine Learning and Artifical Intelligence
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps Tools
+- 💞️ I’m looking to collaborate on DevOps Project
 - 📫 How to reach me on my email id ronitsatone@gmail.com
 
 <!---
